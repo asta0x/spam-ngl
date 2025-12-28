@@ -13,7 +13,7 @@ Tool berbasis Python yang jalan di terminal (Termux / Linux) buat ngirim pesan a
 - Termux (Android)
 
 ## 📸 Screenshots
-![alt text](?raw=true)
+![alt text](https://github.com/asta0x/spam-ngl/blob/main/images/main_menu.jpg?raw=true)
 
 ## 🚀 Instalasi
 ```bash
