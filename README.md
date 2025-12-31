@@ -31,7 +31,7 @@ pip install pycryptodome
 
 pkg install git
 
-git clone https://github.com/asta0x/spam-ngl.git
+git clone https://github.com/Tenkxzz/spam-ngl.git
 
 cd spam-ngl
 
